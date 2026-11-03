@@ -1,6 +1,6 @@
 # Sylvan B
 
-I build software in Rust, from native desktop tools and emulators to web-backed systems. I care about clear interfaces, reliable automation, and understanding the systems beneath the abstraction.
+.NET/C# focused developer with an interest in Rust. I build desktop tools, emulators, and web-backed systems, with an emphasis on clear interfaces, reliable automation, and understanding the systems beneath the abstraction.
 
 ## Selected Projects
 
